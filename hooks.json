@@ -3,5 +3,10 @@
     "id" : "hazarder",
     "execute-command" : "/var/www/hazarder/webhook.sh",
     "command-working-directory":"/var/www/hazarder"
+  },
+  {
+    "id" : "vladinome",
+    "execute-command" : "/var/www/vladinome/webhook.sh",
+    "command-working-directory":"/var/www/vladinome"
   }
 ]
